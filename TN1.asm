@@ -1,4 +1,4 @@
-# Ho ten: CHUA CUNG CAP | MSSV: MSSV | Muc dich: TN1 quan sat thanh ghi va zero
+
 # Ma nguon 1 - nhung buoc dau voi thanh ghi
 .text
 .globl main

@@ -1,4 +1,4 @@
-# Ho ten: CHUA CUNG CAP | MSSV: MSSV | Muc dich: TN2 buoc 2.3 tinh dien nang ba thang
+
 # $s0-$s3: reading0-reading3; $t0-$t2: usage1-usage3; $t3: total.
 .text
 .globl main
